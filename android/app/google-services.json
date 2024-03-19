@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985710276189",
+    "project_id": "enzone-fb9d8",
+    "storage_bucket": "enzone-fb9d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985710276189:android:1de8ad2afb591ef665e7b4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnpvV1f4nZzao16KFFudMBJpNO5SrVS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
